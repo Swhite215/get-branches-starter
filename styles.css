@@ -5,3 +5,7 @@ header {
 h1 {
   color: red;
 }
+
+p.intro {
+  color: red;
+}
